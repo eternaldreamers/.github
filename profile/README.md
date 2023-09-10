@@ -13,9 +13,9 @@ At Eternal Dreamers, our mission is to achieve **extraordinary goals** through u
 
 1. 🎩 Web
 
-2. 🪄 [enchanted artifacts](https://github.com/EternalDreamers) on GitHub.
+2. 🪄 Explore our projects on [Github](https://github.com/orgs/eternaldreamers/repositories) .
 
-3. Discord
+3. [Discord](https://discord.gg/7e2utqW2)
 
 ## 🧙 Contributions
 
